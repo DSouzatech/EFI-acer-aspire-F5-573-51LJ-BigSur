@@ -20,4 +20,3 @@
 - Falta mapeamento de portas USB
 - E algumas redes Wi-fi mesmo estando proximo ao roteador aparece só uma barrinha de sinal
 
-![[photo_2023-07-23_00-47-55 1.jpg]]
